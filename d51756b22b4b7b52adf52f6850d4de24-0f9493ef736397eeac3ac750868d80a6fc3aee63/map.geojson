@@ -1,0 +1,2249 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1AF",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45133227097719,
+            -8.840273156710007
+          ],
+          [
+            118.45126328673379,
+            -8.84031791626289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1B3",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45132599968234,
+            -8.839822364070242
+          ],
+          [
+            118.45152668111768,
+            -8.839819166959321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1B7",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.4531070474211,
+            -8.836676406924648
+          ],
+          [
+            118.45295026504972,
+            -8.835979436744019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1BB",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45129464320806,
+            -8.838492365927388
+          ],
+          [
+            118.4531070474211,
+            -8.836676406924648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1BF",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.4531070474211,
+            -8.836676406924648
+          ],
+          [
+            118.45550268205562,
+            -8.834272179512569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1C3",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.44877358267644,
+            -8.838617053253282
+          ],
+          [
+            118.44877985397129,
+            -8.838780105910217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1C7",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.44750678111576,
+            -8.838869625015986
+          ],
+          [
+            118.44877985397129,
+            -8.838780105910217
+          ],
+          [
+            118.44920630202142,
+            -8.838760923244696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1CC",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.44920630202142,
+            -8.838760923244696
+          ],
+          [
+            118.45091209422192,
+            -8.838674601249847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1D0",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.44750678111576,
+            -8.838706572359051
+          ],
+          [
+            118.44877358267644,
+            -8.838617053253282
+          ],
+          [
+            118.44940071216192,
+            -8.838585082144078
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1D5",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.44940071216192,
+            -8.838585082144078
+          ],
+          [
+            118.45129464320806,
+            -8.838492365927388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1D9",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.44492927893045,
+            -8.838581885033157
+          ],
+          [
+            118.44491673634074,
+            -8.838744937690095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1DD",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.44307924694829,
+            -8.837881717741608
+          ],
+          [
+            118.44301653399974,
+            -8.838015996400262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1E1",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.4249740187025,
+            -8.836334316056174
+          ],
+          [
+            118.4249740187025,
+            -8.836497368713111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1E5",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.43214838001639,
+            -8.836177657621079
+          ],
+          [
+            118.43217973649065,
+            -8.836334316056174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1E9",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.43558504959681,
+            -8.835634148764624
+          ],
+          [
+            118.43558504959681,
+            -8.83580039853248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1ED",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.42317415707917,
+            -8.8361968402866
+          ],
+          [
+            118.42316788578432,
+            -8.836359892943536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1F1",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.42677388032583,
+            -8.836471791825748
+          ],
+          [
+            118.42676133773611,
+            -8.836634844482685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1F5",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.43388552869116,
+            -8.835787610088799
+          ],
+          [
+            118.43392942775515,
+            -8.835944268523896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1F9",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.43732219827159,
+            -8.835758836090516
+          ],
+          [
+            118.43731592697674,
+            -8.835921888747453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "1FD",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.42849221511604,
+            -8.836551719598756
+          ],
+          [
+            118.42847967252632,
+            -8.836714772255693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": 201,
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.43036733227763,
+            -8.836452609160226
+          ],
+          [
+            118.43037987486733,
+            -8.836615661817163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": 205,
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.43946698111192,
+            -8.836305542057891
+          ],
+          [
+            118.43941681075309,
+            -8.836455806271147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": 209,
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.4413295556838,
+            -8.837104819787971
+          ],
+          [
+            118.44126684273525,
+            -8.837242295557544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "20D",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.44687965163028,
+            -8.838751331911935
+          ],
+          [
+            118.44688592292515,
+            -8.838914384568872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": 211,
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.42137429545585,
+            -8.836222417173962
+          ],
+          [
+            118.42316788578432,
+            -8.836359892943536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": 215,
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.42137429545585,
+            -8.836056167406106
+          ],
+          [
+            118.42317415707917,
+            -8.8361968402866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": 219,
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.42316788578432,
+            -8.836359892943536
+          ],
+          [
+            118.42738219592674,
+            -8.83668280114649
+          ],
+          [
+            118.42929494085745,
+            -8.83669558959017
+          ],
+          [
+            118.43035478968791,
+            -8.83659328204072
+          ],
+          [
+            118.43118260060875,
+            -8.836513354267712
+          ],
+          [
+            118.43119514319845,
+            -8.836510157156791
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": 221,
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.43119514319845,
+            -8.836510157156791
+          ],
+          [
+            118.43215465131124,
+            -8.836315133390652
+          ],
+          [
+            118.4330200900012,
+            -8.836139292290035
+          ],
+          [
+            118.43416146566477,
+            -8.835909100303772
+          ],
+          [
+            118.43532792650777,
+            -8.835803595643402
+          ],
+          [
+            118.43651320123531,
+            -8.835829172530763
+          ],
+          [
+            118.43769220466802,
+            -8.835985830965859
+          ],
+          [
+            118.4388461229213,
+            -8.836267176726848
+          ],
+          [
+            118.4399686847003,
+            -8.836670012702807
+          ],
+          [
+            118.44386315880513,
+            -8.83839005837794
+          ],
+          [
+            118.44457808641857,
+            -8.838652221473405
+          ],
+          [
+            118.44533064180115,
+            -8.838831259684943
+          ],
+          [
+            118.44610201106829,
+            -8.838917581679791
+          ],
+          [
+            118.44687965163028,
+            -8.838914384568872
+          ],
+          [
+            118.44750678111576,
+            -8.838869625015986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": 232,
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.42317415707917,
+            -8.8361968402866
+          ],
+          [
+            118.42738219592674,
+            -8.836519748489552
+          ],
+          [
+            118.42749507923412,
+            -8.836526142711394
+          ],
+          [
+            118.42760796254152,
+            -8.836532536933234
+          ],
+          [
+            118.42771457455405,
+            -8.836535734044155
+          ],
+          [
+            118.42782745786143,
+            -8.836538931155074
+          ],
+          [
+            118.42794034116882,
+            -8.836542128265995
+          ],
+          [
+            118.4280532244762,
+            -8.836545325376916
+          ],
+          [
+            118.42815983648873,
+            -8.836548522487835
+          ],
+          [
+            118.42827271979613,
+            -8.836548522487835
+          ],
+          [
+            118.42838560310351,
+            -8.836551719598756
+          ],
+          [
+            118.42849221511604,
+            -8.836551719598756
+          ],
+          [
+            118.42868662525653,
+            -8.836548522487835
+          ],
+          [
+            118.42886849280733,
+            -8.836545325376916
+          ],
+          [
+            118.42905663165297,
+            -8.836542128265995
+          ],
+          [
+            118.42924477049861,
+            -8.836532536933234
+          ],
+          [
+            118.42943290934426,
+            -8.836526142711394
+          ],
+          [
+            118.4296210481899,
+            -8.836513354267712
+          ],
+          [
+            118.42980918703554,
+            -8.83650056582403
+          ],
+          [
+            118.42999732588119,
+            -8.83648777738035
+          ],
+          [
+            118.43018546472683,
+            -8.836471791825748
+          ],
+          [
+            118.43036733227763,
+            -8.836452609160226
+          ],
+          [
+            118.43041123134161,
+            -8.836446214938386
+          ],
+          [
+            118.43045513040559,
+            -8.836443017827465
+          ],
+          [
+            118.43049275817472,
+            -8.836439820716544
+          ],
+          [
+            118.4305366572387,
+            -8.836433426494704
+          ],
+          [
+            118.43058055630269,
+            -8.836430229383783
+          ],
+          [
+            118.43062445536667,
+            -8.836423835161943
+          ],
+          [
+            118.4306620831358,
+            -8.836417440940103
+          ],
+          [
+            118.43070598219978,
+            -8.836414243829182
+          ],
+          [
+            118.43074988126376,
+            -8.836407849607342
+          ],
+          [
+            118.43079378032775,
+            -8.836404652496421
+          ],
+          [
+            118.4309254775197,
+            -8.8363854698309
+          ],
+          [
+            118.4310634460065,
+            -8.836366287165378
+          ],
+          [
+            118.4312014144933,
+            -8.836347104499856
+          ],
+          [
+            118.43120768578817,
+            -8.836347104499856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": 258,
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.43120768578817,
+            -8.836347104499856
+          ],
+          [
+            118.43133938298011,
+            -8.836324724723413
+          ],
+          [
+            118.43147108017206,
+            -8.83630234494697
+          ],
+          [
+            118.43160904865887,
+            -8.83627996517053
+          ],
+          [
+            118.43174074585082,
+            -8.836257585394087
+          ],
+          [
+            118.43187871433763,
+            -8.836232008506723
+          ],
+          [
+            118.43201041152957,
+            -8.836206431619361
+          ],
+          [
+            118.43214838001639,
+            -8.836177657621079
+          ],
+          [
+            118.43223617814435,
+            -8.836158474955557
+          ],
+          [
+            118.43232397627231,
+            -8.836142489400954
+          ],
+          [
+            118.43241177440028,
+            -8.836123306735432
+          ],
+          [
+            118.43249957252824,
+            -8.836100926958991
+          ],
+          [
+            118.43258737065622,
+            -8.83608174429347
+          ],
+          [
+            118.43267516878419,
+            -8.836062561627948
+          ],
+          [
+            118.43276296691215,
+            -8.836040181851505
+          ],
+          [
+            118.43285076504011,
+            -8.836017802075062
+          ],
+          [
+            118.43293856316808,
+            -8.83599861940954
+          ],
+          [
+            118.4330200900012,
+            -8.835976239633098
+          ],
+          [
+            118.43310788812917,
+            -8.835953859856657
+          ],
+          [
+            118.43319568625714,
+            -8.835931480080214
+          ],
+          [
+            118.43327721309025,
+            -8.835912297414692
+          ],
+          [
+            118.43336501121821,
+            -8.83588991763825
+          ],
+          [
+            118.43345280934618,
+            -8.835870734972728
+          ],
+          [
+            118.43353433617929,
+            -8.835854749418127
+          ],
+          [
+            118.43362213430726,
+            -8.835835566752605
+          ],
+          [
+            118.43370993243522,
+            -8.835819581198002
+          ],
+          [
+            118.43379773056319,
+            -8.835803595643402
+          ],
+          [
+            118.43388552869116,
+            -8.835787610088799
+          ],
+          [
+            118.43405485365224,
+            -8.835758836090516
+          ],
+          [
+            118.43421790731847,
+            -8.835736456314075
+          ],
+          [
+            118.43438723227955,
+            -8.835714076537633
+          ],
+          [
+            118.43455655724063,
+            -8.83569489387211
+          ],
+          [
+            118.4347258822017,
+            -8.835675711206589
+          ],
+          [
+            118.43490147845763,
+            -8.835662922762907
+          ],
+          [
+            118.43507080341871,
+            -8.835650134319225
+          ],
+          [
+            118.43524012837979,
+            -8.835643740097385
+          ],
+          [
+            118.43541572463573,
+            -8.835637345875545
+          ],
+          [
+            118.43558504959681,
+            -8.835634148764624
+          ],
+          [
+            118.43576064585274,
+            -8.835634148764624
+          ],
+          [
+            118.43592997081382,
+            -8.835637345875545
+          ],
+          [
+            118.43610556706976,
+            -8.835643740097385
+          ],
+          [
+            118.43628116332569,
+            -8.835650134319225
+          ],
+          [
+            118.43645675958163,
+            -8.835662922762907
+          ],
+          [
+            118.43662608454271,
+            -8.835675711206589
+          ],
+          [
+            118.43680168079864,
+            -8.83569169676119
+          ],
+          [
+            118.43697727705457,
+            -8.835710879426712
+          ],
+          [
+            118.43715287331051,
+            -8.835733259203154
+          ],
+          [
+            118.43732219827159,
+            -8.835758836090516
+          ],
+          [
+            118.43840713228147,
+            -8.835979436744019
+          ],
+          [
+            118.43907188953607,
+            -8.836184051842919
+          ],
+          [
+            118.43946698111192,
+            -8.836305542057891
+          ],
+          [
+            118.43951715147077,
+            -8.836324724723413
+          ],
+          [
+            118.4395673218296,
+            -8.836343907388935
+          ],
+          [
+            118.43961749218845,
+            -8.836363090054457
+          ],
+          [
+            118.43966766254728,
+            -8.836382272719979
+          ],
+          [
+            118.43971783290611,
+            -8.8364014553855
+          ],
+          [
+            118.43976800326496,
+            -8.836423835161943
+          ],
+          [
+            118.43981817362379,
+            -8.836443017827465
+          ],
+          [
+            118.43986834398262,
+            -8.836462200492987
+          ],
+          [
+            118.43991851434147,
+            -8.83648458026943
+          ],
+          [
+            118.4399686847003,
+            -8.836503762934951
+          ],
+          [
+            118.4413295556838,
+            -8.837104819787971
+          ],
+          [
+            118.44307924694829,
+            -8.837881717741608
+          ],
+          [
+            118.44386315880513,
+            -8.838227005721002
+          ],
+          [
+            118.44438367627808,
+            -8.838428423708983
+          ],
+          [
+            118.44492927893045,
+            -8.838581885033157
+          ],
+          [
+            118.44556895100564,
+            -8.83870337524813
+          ],
+          [
+            118.44622116567054,
+            -8.838757726133776
+          ],
+          [
+            118.44661625724639,
+            -8.838754529022856
+          ],
+          [
+            118.44687965163028,
+            -8.838751331911935
+          ],
+          [
+            118.44750678111576,
+            -8.838706572359051
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2A1",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45128837191321,
+            -8.838492365927388
+          ],
+          [
+            118.45091209422192,
+            -8.838674601249847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2A5",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45732762885838,
+            -8.840762314680815
+          ],
+          [
+            118.45716457519215,
+            -8.840065344500186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2A9",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45666914289862,
+            -8.841420919530401
+          ],
+          [
+            118.45732762885838,
+            -8.840762314680815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2AD",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45732762885838,
+            -8.840762314680815
+          ],
+          [
+            118.4597232634929,
+            -8.838358087268736
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2B1",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45091209422192,
+            -8.838674601249847
+          ],
+          [
+            118.45130091450292,
+            -8.838876019237828
+          ],
+          [
+            118.45132599968234,
+            -8.839828758292082
+          ],
+          [
+            118.45132599968234,
+            -8.839831955403003
+          ],
+          [
+            118.45133227097719,
+            -8.840273156710007
+          ],
+          [
+            118.45135108486176,
+            -8.841165150656776
+          ],
+          [
+            118.45136989874632,
+            -8.842057144603544
+          ],
+          [
+            118.45137617004117,
+            -8.842504740132389
+          ],
+          [
+            118.45140752651545,
+            -8.843841132497081
+          ],
+          [
+            118.45143261169487,
+            -8.845177524861775
+          ],
+          [
+            118.45143888298972,
+            -8.845462067733683
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2BE",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45135108486176,
+            -8.841165150656776
+          ],
+          [
+            118.45155176629711,
+            -8.841161953545855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2C2",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45137617004117,
+            -8.842504740132389
+          ],
+          [
+            118.45158312277138,
+            -8.842498345910549
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2C6",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45140752651545,
+            -8.843841132497081
+          ],
+          [
+            118.4512068450801,
+            -8.843844329608002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2CA",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45143261169487,
+            -8.844953727097353
+          ],
+          [
+            118.45122565896466,
+            -8.844960121319193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2CE",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45227923650026,
+            -8.84481625132778
+          ],
+          [
+            118.45215381060316,
+            -8.844656395781763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2D2",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45333908533073,
+            -8.843994593821257
+          ],
+          [
+            118.45321365943363,
+            -8.843834738275241
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2D6",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45439893416119,
+            -8.843172936314735
+          ],
+          [
+            118.45427977955895,
+            -8.84301627787964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2DA",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.4554650542865,
+            -8.842354475919134
+          ],
+          [
+            118.45533962838941,
+            -8.842194620373117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2DE",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45652490311696,
+            -8.841532818412611
+          ],
+          [
+            118.45639947721986,
+            -8.841372962866597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2E2",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45136989874632,
+            -8.842057144603544
+          ],
+          [
+            118.45129464320806,
+            -8.84210190415643
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2E6",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.4514137978103,
+            -8.844100098481627
+          ],
+          [
+            118.45133854227204,
+            -8.844144858034513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2EA",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45185905974499,
+            -8.845139159530731
+          ],
+          [
+            118.45184651715529,
+            -8.845056034646802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2EE",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45298789281885,
+            -8.844269545360405
+          ],
+          [
+            118.45306314835712,
+            -8.844301516469608
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2F2",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45455571653255,
+            -8.843054643210683
+          ],
+          [
+            118.45463097207082,
+            -8.843086614319887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2F6",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45581624679836,
+            -8.842079524379987
+          ],
+          [
+            118.45589777363148,
+            -8.84211149548919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2FA",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45681965397513,
+            -8.841267458206225
+          ],
+          [
+            118.45690118080825,
+            -8.841299429315429
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "2FE",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45152668111768,
+            -8.839828758292082
+          ],
+          [
+            118.45158312277138,
+            -8.842498345910549
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": 302,
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45128837191321,
+            -8.838492365927388
+          ],
+          [
+            118.45150159593827,
+            -8.838639433029725
+          ],
+          [
+            118.45151413852798,
+            -8.839317220544832
+          ],
+          [
+            118.45152668111768,
+            -8.839828758292082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": 308,
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45143888298972,
+            -8.845462067733683
+          ],
+          [
+            118.45157058018168,
+            -8.845362957295153
+          ],
+          [
+            118.4516646496045,
+            -8.845292620854906
+          ],
+          [
+            118.45227923650026,
+            -8.84481625132778
+          ],
+          [
+            118.45298789281885,
+            -8.844269545360405
+          ],
+          [
+            118.45333908533073,
+            -8.843994593821257
+          ],
+          [
+            118.45439893416119,
+            -8.843172936314735
+          ],
+          [
+            118.4554650542865,
+            -8.842354475919134
+          ],
+          [
+            118.45581624679836,
+            -8.842079524379987
+          ],
+          [
+            118.45652490311696,
+            -8.841532818412611
+          ],
+          [
+            118.45666914289862,
+            -8.841420919530401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": 315,
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45321365943363,
+            -8.843834738275241
+          ],
+          [
+            118.45334535662558,
+            -8.843735627836711
+          ],
+          [
+            118.45405401294417,
+            -8.843188921869338
+          ],
+          [
+            118.45475639796791,
+            -8.842642215901963
+          ],
+          [
+            118.45511386177463,
+            -8.842367264362816
+          ],
+          [
+            118.45617371060509,
+            -8.841545606856293
+          ],
+          [
+            118.45639947721986,
+            -8.841372962866597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "31E",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45321365943363,
+            -8.843834738275241
+          ],
+          [
+            118.4525238169996,
+            -8.843268849642344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": 322,
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45158312277138,
+            -8.842498345910549
+          ],
+          [
+            118.45217262448773,
+            -8.842981109659517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": 326,
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45214126801346,
+            -8.842958729883074
+          ],
+          [
+            118.45254890217902,
+            -8.843294426529708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": "32A",
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45143261169487,
+            -8.845177524861775
+          ],
+          [
+            118.45140752651545,
+            -8.845180721972696
+          ],
+          [
+            118.45138244133604,
+            -8.845183919083615
+          ],
+          [
+            118.4513573561566,
+            -8.845193510416376
+          ],
+          [
+            118.45133227097719,
+            -8.845203101749137
+          ],
+          [
+            118.45130718579777,
+            -8.8452126930819
+          ],
+          [
+            118.45128210061836,
+            -8.8452286786365
+          ],
+          [
+            118.45126328673379,
+            -8.845244664191101
+          ],
+          [
+            118.45124447284923,
+            -8.845263846856623
+          ],
+          [
+            118.45122565896466,
+            -8.845283029522145
+          ],
+          [
+            118.4512068450801,
+            -8.845305409298588
+          ],
+          [
+            118.45119430249039,
+            -8.84532778907503
+          ],
+          [
+            118.45118803119553,
+            -8.845353365962392
+          ],
+          [
+            118.45117548860583,
+            -8.845378942849756
+          ],
+          [
+            118.45116921731096,
+            -8.845404519737118
+          ],
+          [
+            118.45116921731096,
+            -8.84543009662448
+          ],
+          [
+            118.45116921731096,
+            -8.845455673511843
+          ],
+          [
+            118.45116921731096,
+            -8.845481250399205
+          ],
+          [
+            118.45117548860583,
+            -8.845510024397488
+          ],
+          [
+            118.45118175990068,
+            -8.845535601284851
+          ],
+          [
+            118.45118803119553,
+            -8.845557981061294
+          ],
+          [
+            118.45120057378524,
+            -8.845583557948656
+          ],
+          [
+            118.45121938766981,
+            -8.845605937725098
+          ],
+          [
+            118.45123193025951,
+            -8.84562831750154
+          ],
+          [
+            118.45125074414408,
+            -8.845647500167061
+          ],
+          [
+            118.45126955802864,
+            -8.845663485721664
+          ],
+          [
+            118.45129464320806,
+            -8.845679471276265
+          ],
+          [
+            118.45131972838749,
+            -8.845692259719947
+          ],
+          [
+            118.4513448135669,
+            -8.845701851052707
+          ],
+          [
+            118.45136989874632,
+            -8.845711442385468
+          ],
+          [
+            118.45139498392574,
+            -8.845717836607308
+          ],
+          [
+            118.45142006910515,
+            -8.84572103371823
+          ],
+          [
+            118.45144515428458,
+            -8.84572103371823
+          ],
+          [
+            118.451470239464,
+            -8.845717836607308
+          ],
+          [
+            118.45150159593827,
+            -8.84571463949639
+          ],
+          [
+            118.45152668111768,
+            -8.845708245274547
+          ],
+          [
+            118.45155176629711,
+            -8.845698653941787
+          ],
+          [
+            118.45157685147653,
+            -8.845685865498107
+          ],
+          [
+            118.4515956653611,
+            -8.845673077054425
+          ],
+          [
+            118.45162075054051,
+            -8.845653894388903
+          ],
+          [
+            118.45163956442508,
+            -8.8456379088343
+          ],
+          [
+            118.45165837830965,
+            -8.84561552905786
+          ],
+          [
+            118.45167092089935,
+            -8.845593149281417
+          ],
+          [
+            118.45168346348906,
+            -8.845570769504974
+          ],
+          [
+            118.45169600607878,
+            -8.845548389728531
+          ],
+          [
+            118.45170227737363,
+            -8.84552281284117
+          ],
+          [
+            118.45170854866848,
+            -8.845494038842887
+          ],
+          [
+            118.45171481996333,
+            -8.845468461955525
+          ],
+          [
+            118.45171481996333,
+            -8.845442885068161
+          ],
+          [
+            118.45170854866848,
+            -8.8454173081808
+          ],
+          [
+            118.45170854866848,
+            -8.845391731293436
+          ],
+          [
+            118.45170227737363,
+            -8.845366154406074
+          ],
+          [
+            118.45168973478391,
+            -8.845340577518712
+          ],
+          [
+            118.45167719219421,
+            -8.845315000631349
+          ],
+          [
+            118.4516646496045,
+            -8.845292620854906
+          ],
+          [
+            118.45165837830965,
+            -8.845289423743987
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": 0,
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDb3dPolyline",
+        "Linetype": "",
+        "EntityHand": 364,
+        "Text": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.45176499032218,
+            -8.845209495970979
+          ],
+          [
+            118.45189041621927,
+            -8.845369351516995
+          ]
+        ]
+      }
+    }
+  ]
+}
